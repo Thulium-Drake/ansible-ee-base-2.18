@@ -24,6 +24,7 @@ dependencies:
     - dnspython
     - netaddr
     - passlib
+    - proxmoxer
     - pyvmomi
     - pyOpenSSL
     - pytz
